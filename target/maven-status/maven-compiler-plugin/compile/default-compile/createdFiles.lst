@@ -1,0 +1,9 @@
+app\MainApp.class
+tts\TextToSpeech.class
+ui\Controller.class
+utils\AudioUtils.class
+translation\TranslatorService.class
+speech\VoskResultParser.class
+ui\LanguageOption.class
+ui\MainUI.class
+speech\VoskRecognizer.class
